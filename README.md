@@ -1,9 +1,9 @@
 - 👩🏻‍💻 Hi, I’m Maggie!
-- 🎨 I'm an artist and designer studying web dev and hoping to make some cool apps and video games.
-- ⚛️ I’m currently learning ReactJS and taking courses on graphic design and video game development.
+- 🎨 I'm an artist + designer who enjoys web dev.
+- ⚛️ I’m currently brushing up on ReactJS and taking courses on graphic design and video game development.
 - 🎮 I've also been playing a lot of Stardew Valley and counting that as "research"...
 - ✨ I’d love to collaborate with anyone who could use a little bit of creative spice.
-- 💌 My email address is maggiegreymcdonald@gmail.com or maggieforhire@gmail.com for specific business inquiries.
+- 💌 My email address is maggiegreymcdonald@gmail.com.
 
 <!---
 maggiegmcd/maggiegmcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
